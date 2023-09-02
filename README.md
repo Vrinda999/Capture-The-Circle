@@ -24,3 +24,10 @@ Explanation:
    If the two Circle Touch, then the Captured Circle Disappears and Score is Increased by 1 point.
 
 5. This goes on until the User Presses the "q" button.
+
+
+Final Result:
+
+
+https://github.com/Vrinda999/Capture-The-Circle/assets/98251856/9cb6be9d-c0df-4bcf-854a-dbbe597aa8a0
+
